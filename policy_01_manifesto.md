@@ -35,13 +35,13 @@ the right, we value the items on the left more.
 
 Signatories,
 
-    – Billy Markus</br>
-    – Gary Lachance</br>
-    – Jens Wiechers</br>
-    – Max Keller</br>
-    – Michi Lumin</br>
-    – Ross Nicoll</br>
-    – Timothy Stebbing</br>    
+– Billy Markus</br>
+– Gary Lachance</br>
+– Jens Wiechers</br>
+– Max Keller</br>
+– Michi Lumin</br>
+– Ross Nicoll</br>
+– Timothy Stebbing</br>    
     
 ## Reproduction / formatting
 
