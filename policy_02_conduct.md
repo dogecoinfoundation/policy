@@ -83,7 +83,7 @@ person from the community space, projects or events for a limited or unlimited p
 ## Contact
 
 If you feel that anyone in the community is violating the Code of Shibes, or you have concerns, please 
-reach out to the event / project / community organizers, or email conduct at dogecoin com.
+reach out to the event / project / community organizers, or email conduct at lists.dogecoin.org
 
 In case of an emergency at in-person events, call the emergency phone number shown at the start of the 
 event, or phone your local emergency hotline (911 in the US, 999 in the UK, 000 in Australia).
